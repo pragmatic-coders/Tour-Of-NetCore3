@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Repos\\Tour-Of-NetCore3\\AspNetCoreMVC\\AspNetCoreMVC.csproj": {}
+  },
+  "projects": {
+    "D:\\Repos\\Tour-Of-NetCore3\\AspNetCoreMVC\\AspNetCoreMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repos\\Tour-Of-NetCore3\\AspNetCoreMVC\\AspNetCoreMVC.csproj",
+        "projectName": "AspNetCoreMVC",
+        "projectPath": "D:\\Repos\\Tour-Of-NetCore3\\AspNetCoreMVC\\AspNetCoreMVC.csproj",
+        "packagesPath": "C:\\Users\\prac_\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\Tour-Of-NetCore3\\AspNetCoreMVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\prac_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview-18579-0056, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview-27122-01, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "linuxmint.17.1-x64": {
+          "#import": []
+        },
+        "osx.10.11-x64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

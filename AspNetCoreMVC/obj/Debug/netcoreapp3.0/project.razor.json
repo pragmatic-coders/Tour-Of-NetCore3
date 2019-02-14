@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Repos\\Tour-Of-NetCore3\\AspNetCoreMVC\\AspNetCoreMVC.csproj",
+  "TargetFramework": "netcoreapp3.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}

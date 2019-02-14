@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <RuntimeIdentifiers>
+    win-x64;win10-x64;osx.10.11-x64;linuxmint.17.1-x64
+    </RuntimeIdentifiers>
+  </PropertyGroup>
+
+
+  
+</Project>
