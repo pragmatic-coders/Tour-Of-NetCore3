@@ -1,0 +1,12 @@
+D:\Repos\Tour-Of-NetCore3\Sample-CSV-Parser\bin\Debug\netcoreapp3.0\Sample-CSV-Parser.exe
+D:\Repos\Tour-Of-NetCore3\Sample-CSV-Parser\bin\Debug\netcoreapp3.0\Sample-CSV-Parser.deps.json
+D:\Repos\Tour-Of-NetCore3\Sample-CSV-Parser\bin\Debug\netcoreapp3.0\Sample-CSV-Parser.runtimeconfig.json
+D:\Repos\Tour-Of-NetCore3\Sample-CSV-Parser\bin\Debug\netcoreapp3.0\Sample-CSV-Parser.runtimeconfig.dev.json
+D:\Repos\Tour-Of-NetCore3\Sample-CSV-Parser\bin\Debug\netcoreapp3.0\Sample-CSV-Parser.dll
+D:\Repos\Tour-Of-NetCore3\Sample-CSV-Parser\bin\Debug\netcoreapp3.0\Sample-CSV-Parser.pdb
+D:\Repos\Tour-Of-NetCore3\Sample-CSV-Parser\obj\Debug\netcoreapp3.0\Sample-CSV-Parser.csprojAssemblyReference.cache
+D:\Repos\Tour-Of-NetCore3\Sample-CSV-Parser\obj\Debug\netcoreapp3.0\Sample-CSV-Parser.csproj.CoreCompileInputs.cache
+D:\Repos\Tour-Of-NetCore3\Sample-CSV-Parser\obj\Debug\netcoreapp3.0\Sample-CSV-Parser.AssemblyInfoInputs.cache
+D:\Repos\Tour-Of-NetCore3\Sample-CSV-Parser\obj\Debug\netcoreapp3.0\Sample-CSV-Parser.AssemblyInfo.cs
+D:\Repos\Tour-Of-NetCore3\Sample-CSV-Parser\obj\Debug\netcoreapp3.0\Sample-CSV-Parser.dll
+D:\Repos\Tour-Of-NetCore3\Sample-CSV-Parser\obj\Debug\netcoreapp3.0\Sample-CSV-Parser.pdb

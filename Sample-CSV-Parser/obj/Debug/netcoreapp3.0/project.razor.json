@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Repos\\Tour-Of-NetCore3\\Sample-CSV-Parser\\Sample-CSV-Parser.csproj",
+  "TargetFramework": "netcoreapp3.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
